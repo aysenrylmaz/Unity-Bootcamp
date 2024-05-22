@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ee90c5726a8c47c4c8e8f698c3522a7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePoint: {instanceID: 0}
+  - player: {instanceID: 0}
+  - screamPrefab: {fileID: 2604170072365668581, guid: 6b3a3bf6bee1f3142b26b0d1a8e4c74a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
